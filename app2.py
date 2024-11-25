@@ -1,6 +1,5 @@
 import numpy as np
 import streamlit as st
-import matplotlib.pyplot as plt
 
 # Título de la aplicación
 st.title("Modelo de Inflación Basado en Conflicto para N Sectores")
